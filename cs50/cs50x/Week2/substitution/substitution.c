@@ -2,7 +2,10 @@
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
-
+/// @brief 
+/// @param argc 
+/// @param argv 
+/// @return 
 int main(int argc, string argv[])
 {
     // Check for number of args
